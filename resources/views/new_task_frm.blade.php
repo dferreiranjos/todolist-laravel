@@ -1,5 +1,5 @@
 @extends('layouts.main_layout')
-{{-- comentário teste --}}
+
 @section('content')
 <div class="container-fluid">
     <div class="row">
